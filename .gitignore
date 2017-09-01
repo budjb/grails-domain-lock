@@ -1,0 +1,24 @@
+# OSX files
+.DS_Store
+
+# IDEA project files
+*.iml
+.idea/
+out/
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Grails 2.x files
+target/
+target-eclipse/
+*.zip
+*.war
+*.log
+
+# Grails 3.x files
+build/
+classes/
+.gradle/
